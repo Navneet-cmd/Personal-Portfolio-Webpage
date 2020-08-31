@@ -1,0 +1,53 @@
+html {
+
+ background-color: black;
+}
+
+
+section {
+    display: block;
+    background:black;
+    height:100%;
+    width:100%;
+    padding: 60px;
+    padding-left: 120px;
+  
+}
+
+.card {
+    
+    border:black;
+    background-color:black;
+    padding:100px;
+}
+
+#Projects  {
+
+    margin:5px;
+
+
+}
+#Contact  {
+
+    margin:5px;
+
+}
+#welcome  {
+
+    margin:5px;
+
+}
+
+h2 {
+
+    color:white;
+ 
+}
+
+@media only screen and (max-width: 320px) {
+
+    body { 
+       font-size: 2em; 
+    }
+ 
+ }
